@@ -2,6 +2,7 @@
     position: relative;
     margin: 0 auto;
     text-align: center;
+    line-height: 2em;
   }
   .connections ul{
     margin: 0;
@@ -33,6 +34,8 @@
   
   footer .connections a:hover svg path {
           fill:  #FFBBFC;
-          transition: all 0.2s ease-in-out;}
+          transition: all 0.2s ease-in-out;
+          text-align: center;
+  }
   
 
