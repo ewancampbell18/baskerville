@@ -2,7 +2,6 @@
     position: relative;
     margin: 0 auto;
     text-align: center;
-    line-height: 2em;
   }
   .connections ul{
     margin: 0;
@@ -26,7 +25,8 @@
     border-bottom: none;}
   
   .connections svg {
-        margin: 2em auto;}
+        margin: 2em auto;
+}
   
   .connections a:hover svg path {
         fill: #FFBBFC;
