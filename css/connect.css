@@ -2,6 +2,7 @@
     position: relative;
     margin: 0 auto;
     text-align: center;
+    line-height: 1.4;
   }
   .connections ul{
     margin: 0;
