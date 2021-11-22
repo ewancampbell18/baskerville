@@ -104,7 +104,7 @@ nav a {
 
 nav :hover {
     border-bottom: none;
-    color: rgb(99, 133, 101);
+    color: rgb(224, 111, 35);
     transition: all 0.3s ease-in-out;
 }
 
